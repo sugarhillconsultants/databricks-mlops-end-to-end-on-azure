@@ -9,7 +9,6 @@ __pycache__/
 # Databricks
 .databricks/
 dbfs/
-*.dbc
 
 # Notebooks
 .ipynb_checkpoints/
